@@ -8,7 +8,7 @@ export default async function convertCurrencies(from, to, amount){
     base_currency: from,
     currencies: to,
 });
-    const amount_currency = responce.data[to] * amount;
-  return amount_currency ;
+    // const amount_currency = responce.data[to] * amount;
+  return "hello World" ;
 
 }
