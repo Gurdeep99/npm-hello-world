@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Gurdeep99/npm-hello-world#readme",
   "dependencies": {
-    "@everapi/freecurrencyapi-js": "^1.0.1"
+    
   }
 }
