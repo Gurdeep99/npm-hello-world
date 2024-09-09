@@ -1,6 +1,6 @@
 {
   "name": "qwertyuioplkjhgfdsazxcvbnm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "its an npm pakage creation test",
   "main": "index.js",
   "type": "module",
