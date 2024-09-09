@@ -1,0 +1,26 @@
+{
+  "name": "test-hello-world",
+  "version": "1.0.0",
+  "description": "its an npm pakage creation test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurdeep99/npm-hello-world.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Gurdeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurdeep99/npm-hello-world/issues"
+  },
+  "homepage": "https://github.com/Gurdeep99/npm-hello-world#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
